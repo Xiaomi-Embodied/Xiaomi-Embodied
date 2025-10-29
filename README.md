@@ -9,7 +9,7 @@
   <b>
     <span>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
     <br/>
-    MiMo-VL Technical Report
+    Xiaomi-Embodied Technical Report
     <br/>
     <span>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
     <br/>
