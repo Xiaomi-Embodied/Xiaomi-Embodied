@@ -35,6 +35,7 @@
 
 <br/>
 
+# **Xiaomi-Embodied**
 
 ### 🔥🔥🔥 MiMo-VL 2508 Updates
 
