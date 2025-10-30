@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <source srcset="https://github.com/XiaomiMiMo/MiMo-VL/raw/main/figures/Xiaomi_MiMo_darkmode.png?raw=true" media="(prefers-color-scheme: dark)">
-    <img src="https://github.com/XiaomiMiMo/MiMo-VL/raw/main/figures/Xiaomi_Embodied.jpg?raw=true" width="60%" alt="Xiaomi-Embodied" />
+    <img src="https://github.com/Xiaomi-Embodied/Xiaomi-Embodied/blob/main/figures/Xiaomi-Embodied.jpg?raw=true" width="60%" alt="Xiaomi-Embodied" />
   </picture>
 </div>
 
